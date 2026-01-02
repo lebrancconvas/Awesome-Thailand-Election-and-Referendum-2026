@@ -1,4 +1,4 @@
-# Awesome Thailand's General Election 2026
+# Awesome Thailand's General Election and Referendum 2026
 
 ## Table of Contents
 - Political Party (ข้อมูลพรรคการเมือง)
